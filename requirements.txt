@@ -1,8 +1,7 @@
-numpy 
-pandas 
+numpy
+pandas
 scikit-learn
 torch 
-torch-geometric-temporal
 pytorch-lightning 
 yfinance 
 networkx 
